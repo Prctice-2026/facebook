@@ -2,3 +2,4 @@ Hello
 from dev
 from master
 from dev1
+conflict DEV
