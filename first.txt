@@ -3,3 +3,4 @@ from dev
 from master
 from dev1
 conflict master
+conflict DEV
